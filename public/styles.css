@@ -43,7 +43,7 @@ body {
   
   .name {
     font-size: 2em;
-    color: #2d3436;
+    color: white/*#2d3436*/;
     display: flex;
     flex: 1;
     margin: 10% 1px 0 20px; /* t rl b trbl  10% 5px 0 20px*/
